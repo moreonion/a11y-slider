@@ -1,5 +1,6 @@
 # A11Y Slider
 
+Fork of [mmahandev/a11y-slider](https://github.com/mmahandev/a11y-slider).
 Library for simple and accessible sliders. [Demo and examples](https://a11yslider.js.org/#examples)
 
 ## Install

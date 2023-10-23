@@ -1,6 +1,6 @@
 {
-  "name": "a11y-slider",
-  "version": "0.4.22",
+  "name": "@moreonion/a11y-slider",
+  "version": "1.0.0-beta",
   "description": "Library for accessible sliders",
   "scripts": {
     "dev": "npm run rollup:watch",
@@ -25,13 +25,18 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mmahandev/a11y-slider.git"
+    "url": "git+https://github.com/moreonion/a11y-slider.git"
   },
-  "bugs": {
-    "url": "https://github.com/mmahandev/a11y-slider/issues"
-  },
-  "author": "mmahandev",
-  "homepage": "https://github.com/mmahandev/a11y-slider",
+  "author": "More Onion <kontakt@more-onion.at>",
+  "contributors": [
+    {
+      "name": "mmahandev",
+      "homepage": "https://github.com/mmahandev/a11y-slider"
+    },
+    {
+      "name": "katrin fartacek",
+      "email": "katrin@more-onion.com"
+    }],
   "keywords": [
     "accessible",
     "slider",
@@ -42,7 +47,8 @@
     "es6",
     "js",
     "accessibility",
-    "a11y"
+    "a11y",
+    "i18n"
   ],
   "license": "MIT",
   "devDependencies": {
